@@ -1,3 +1,5 @@
+[![Total Downloads](https://poser.pugx.org/dbrisinajumi/yii-jqplot/downloads)](https://packagist.org/packages/dbrisinajumi/yii-jqplot)
+
 jqPlot
 ============
 
