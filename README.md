@@ -1,4 +1,5 @@
 [![Total Downloads](https://poser.pugx.org/dbrisinajumi/yii-jqplot/downloads)](https://packagist.org/packages/dbrisinajumi/yii-jqplot)
+[![Code Climate](https://img.shields.io/codeclimate/github/dbrisinajumi/yii-jqplot.svg)](https://codeclimate.com/github/dbrisinajumi/yii-jqplot)
 
 jqPlot
 ============
