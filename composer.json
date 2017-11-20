@@ -9,6 +9,12 @@
             "name": "Chris Leonello",
             "email": "development@2mx.org",
             "homepage": "http://www.jqplot.com"
+        },
+        {
+            "name": "Uldis Nelsons",
+            "email": "uldis@weberp.lv",
+            "homepage": "http://www.weberp.lv"
         }
+       
     ]
 }
