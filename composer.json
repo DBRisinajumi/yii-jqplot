@@ -3,7 +3,7 @@
     "description": "A Versatile and Expandable jQuery Plotting Plugin",
     "keywords": ["jqplot","charts","yii","jquery"],
     "type": "yii-extension",
-    "license": "GPL-2.0",
+    "license": "LGPL-2.0-or-later",
     "authors": [
         {
             "name": "Chris Leonello",
